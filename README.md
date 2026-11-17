@@ -22,7 +22,7 @@ Production-grade Blue-Green deployment pipeline utilizing **Multi-Stage Distrole
 
 ## Quick Start (Ubuntu / AWS EC2)
 ```bash
-git clone https://github.com
+git clone https://github.com/goswamikashyap/blue-green-aws.git
 cd blue-green-aws
 chmod +x scripts/setup.sh scripts/deploy.sh
 
